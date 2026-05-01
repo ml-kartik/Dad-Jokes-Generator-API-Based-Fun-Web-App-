@@ -54,3 +54,7 @@ Pull requests are welcome. For major changes, open an issue first.
 📄 License
 
 This project is open source and available under the MIT License.
+
+😄 Fun Fact
+
+Dad jokes are scientifically proven to be 87% more funny when you're bored.
