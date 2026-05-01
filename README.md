@@ -38,10 +38,12 @@ Then open index.html in your browser.
 
 🔌 API Used
 https://icanhazdadjoke.com/
+
 💡 How It Works
 Click the button
 App sends request to API
 Joke is displayed instantly
+
 ✨ Future Improvements
 Dark mode 🌙
 Joke categories
