@@ -26,8 +26,6 @@ A simple, fun, and responsive web app that fetches random dad jokes using an API
 
 ![App Screenshot](./screenshot.png)
 
-> *(Add a screenshot of your UI and name it `screenshot.png` in your repo)*
-
 ---
 
 ## 📦 Installation
